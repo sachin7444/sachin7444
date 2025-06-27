@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Sachin Pal
 
-<!--
-**sachin7444/sachin7444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Currently exploring **DevOps, Web Development, and System Security**
+- 💻 Love working with **React, Linux, and C++**
+- 🔭 Actively seeking internships and collaborative tech projects
+- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
 
-Here are some ideas to get you started:
+## 📈 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpal&show_icons=true&theme=radical)
+
+## 🔧 Languages & Tools
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<!-- You can add more badges from shields.io -->
+
