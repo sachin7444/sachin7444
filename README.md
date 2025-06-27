@@ -7,9 +7,7 @@
 
 ##Certifications & Licences
 
-![Certs](https://www.linkedin.com/in/sachin-pal-4733b4241/details/certifications/)
-
-## 📈 GitHub Stat
+!📈[Certs]: (https://www.linkedin.com/in/sachin-pal-4733b4241/details/certifications/)
 
 ## 🔧 Languages & Tools
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
