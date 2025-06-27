@@ -1,13 +1,15 @@
-# 👋 Hi, I'm Sachin Pal
+# 👋 Hi, I'm Sachin
 
-- 🌱 Currently exploring **DevOps, Web Development, and System Security**
-- 💻 Love working with **React, Linux, and C++**
+- 🌱 Currently exploring **DevOps, Web Development**
+- 💻 Love working with **JavaScript, AWS and C++**
 - 🔭 Actively seeking internships and collaborative tech projects
-- 📫 Reach me at: [your-email@example.com](mailto:your-email@example.com)
+- 📫 Reach me at: [sachinpal7494@gmail.com](mailto:sachinpal7494@gmail.com)
 
-## 📈 GitHub Stats
+##Certifications & Licences
 
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=sachinpal&show_icons=true&theme=radical)
+![Certs](https://www.linkedin.com/in/sachin-pal-4733b4241/details/certifications/)
+
+## 📈 GitHub Stat
 
 ## 🔧 Languages & Tools
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> 
@@ -15,5 +17,4 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
 <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 
-<!-- You can add more badges from shields.io -->
 
